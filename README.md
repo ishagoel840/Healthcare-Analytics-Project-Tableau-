@@ -2,7 +2,7 @@
 ###### Tools used: Tableau
 
 ## About Dataset
-The Healthcare-Dataset consists of various columns, each  provideing specific information about the patient, their Age, Blood Pressure, Body Mass Index(BMI), Skin Thickness etc. Utilizing this dataset to explore the relationships between various health indicators and the likelihood of diabetes.
+The Healthcare-Dataset consists of various columns, each  providing specific information about the patient, their Age, Blood Pressure, Body Mass Index(BMI), Skin Thickness etc. Utilizing this dataset to explore the relationships between various health indicators and the likelihood of diabetes.
 
 ## Key details
 ###### Total Entries: The dataset contains 768 entries.
