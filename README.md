@@ -1,6 +1,8 @@
 # Healthcare- Analysis
 ###### Tools used: Tableau
 
+![bpm_helthcre](https://github.com/ishagoel840/Healthcare-Analytics-Project-Tableau-/assets/163164421/a93deb00-e136-4dd5-af36-12f261dce1c1)
+
 ## About Dataset
 The Healthcare-Dataset consists of various columns, each  providing specific information about the patient, their Age, Blood Pressure, Body Mass Index(BMI), Skin Thickness etc. Utilizing this dataset to explore the relationships between various health indicators and the likelihood of diabetes.
 
